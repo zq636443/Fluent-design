@@ -4,7 +4,7 @@ import { defineConfig } from 'dumi';
 const repo = 'Fluent-design'; // 项目名(也就是你的仓库名)
 
 export default defineConfig({
-  title: 'Flant Design', // 你的组件库名字
+  title: 'Fluent Design', // 你的组件库名字
   // 你的网站 tabs 图片
   favicon: 'https://s3.bmp.ovh/imgs/2022/09/08/7209344d141c60a7.jpg',
   // 你的官网logo
