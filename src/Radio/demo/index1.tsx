@@ -6,8 +6,8 @@ export default function index() {
 	return (
 		<div>
 		<RadioGroup value={0}>
-			<Radio>Orange</Radio>
 			<Radio>Watch</Radio>
+			<Radio>Orange</Radio>
 			<Radio>apple</Radio>
 		</RadioGroup></div>
 	)
