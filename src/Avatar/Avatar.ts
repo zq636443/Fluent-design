@@ -52,5 +52,3 @@ export interface avatarProps {
      groupStyle?:CSSProperties;
     
   }
-
-   
